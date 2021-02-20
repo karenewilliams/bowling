@@ -1,0 +1,9 @@
+C:\Users\karen\source\repos\SpecFlow-Examples\BowlingKata\BowlingKata-Nunit\Bowling\bin\Debug\netcoreapp3.1\Bowling.deps.json
+C:\Users\karen\source\repos\SpecFlow-Examples\BowlingKata\BowlingKata-Nunit\Bowling\bin\Debug\netcoreapp3.1\Bowling.dll
+C:\Users\karen\source\repos\SpecFlow-Examples\BowlingKata\BowlingKata-Nunit\Bowling\bin\Debug\netcoreapp3.1\Bowling.pdb
+C:\Users\karen\source\repos\SpecFlow-Examples\BowlingKata\BowlingKata-Nunit\Bowling\obj\Debug\netcoreapp3.1\Bowling.csprojAssemblyReference.cache
+C:\Users\karen\source\repos\SpecFlow-Examples\BowlingKata\BowlingKata-Nunit\Bowling\obj\Debug\netcoreapp3.1\Bowling.AssemblyInfoInputs.cache
+C:\Users\karen\source\repos\SpecFlow-Examples\BowlingKata\BowlingKata-Nunit\Bowling\obj\Debug\netcoreapp3.1\Bowling.AssemblyInfo.cs
+C:\Users\karen\source\repos\SpecFlow-Examples\BowlingKata\BowlingKata-Nunit\Bowling\obj\Debug\netcoreapp3.1\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\karen\source\repos\SpecFlow-Examples\BowlingKata\BowlingKata-Nunit\Bowling\obj\Debug\netcoreapp3.1\Bowling.dll
+C:\Users\karen\source\repos\SpecFlow-Examples\BowlingKata\BowlingKata-Nunit\Bowling\obj\Debug\netcoreapp3.1\Bowling.pdb
