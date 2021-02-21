@@ -6,8 +6,8 @@
   
 Scenario: One single spare
   Given a new bowling game
-  When I roll the following series:	3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-  Then my total score should be 29
+  When I roll the following series:	3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2
+  Then my total score should be 30
   
 Scenario: All spares
   Given a new bowling game
